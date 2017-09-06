@@ -80,4 +80,4 @@ npm run deploy-storybook -- --source-branch=release
 ```
 
 
-##Have a look at this [guide](https://github.com/blog/2233-publish-your-project-documentation-with-github-pages) for more information.
+## Have a look at this [guide](https://github.com/blog/2233-publish-your-project-documentation-with-github-pages) for more information.
